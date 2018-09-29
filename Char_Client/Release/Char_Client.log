@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2001: неразрешенный внешний символ ""private: void __thiscall cv::String::deallocate(void)" (?deallocate@String@cv@@AAEXXZ)"
+C:\Users\eXtr7mus\source\repos\Char_Client\Release\Char_Client.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

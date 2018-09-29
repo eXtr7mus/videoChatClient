@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\extr7mus\source\repos\char_client\char_client\main.cpp(126): warning C4244: инициализация: преобразование "INT_PTR" в "int", возможна потеря данных
+c:\users\extr7mus\source\repos\char_client\char_client\main.cpp(152): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+c:\users\extr7mus\source\repos\char_client\char_client\main.cpp(188): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+main.obj : error LNK2001: неразрешенный внешний символ ""void __cdecl cv::imshow(class cv::String const &,class cv::_InputArray const &)" (?imshow@cv@@YAXAEBVString@1@AEBV_InputArray@1@@Z)"
+main.obj : error LNK2001: неразрешенный внешний символ ""bool __cdecl cv::imencode(class cv::String const &,class cv::_InputArray const &,class std::vector<unsigned char,class std::allocator<unsigned char> > &,class std::vector<int,class std::allocator<int> > const &)" (?imencode@cv@@YA_NAEBVString@1@AEBV_InputArray@1@AEAV?$vector@EV?$allocator@E@std@@@std@@AEBV?$vector@HV?$allocator@H@std@@@5@@Z)"
+main.obj : error LNK2001: неразрешенный внешний символ ""class cv::Mat __cdecl cv::imdecode(class cv::_InputArray const &,int)" (?imdecode@cv@@YA?AVMat@1@AEBV_InputArray@1@H@Z)"
+C:\Users\eXtr7mus\source\repos\Char_Client\x64\Release\Char_Client.exe : fatal error LNK1120: неразрешенных внешних элементов: 3

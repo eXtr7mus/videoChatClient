@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\extr7mus\source\repos\char_client\char_client\main.cpp(136): warning C4244: инициализация: преобразование "INT_PTR" в "int", возможна потеря данных
+c:\users\extr7mus\source\repos\char_client\char_client\main.cpp(160): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+c:\users\extr7mus\source\repos\char_client\char_client\main.cpp(204): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Char_Client.vcxproj -> C:\Users\eXtr7mus\source\repos\Char_Client\x64\Debug\Char_Client.exe
